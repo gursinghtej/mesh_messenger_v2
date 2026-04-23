@@ -1,0 +1,36 @@
+{
+  "peers": {
+    "gursingh_73": {
+      "username": "gursingh_73",
+      "ip": "10.159.66.73",
+      "first_seen": 1776940251.6414244,
+      "last_seen": 1776945499.3567233,
+      "status": "Available",
+      "pinned": false,
+      "unread": 0
+    }
+  },
+  "messages": {
+    "BROADCAST": [
+      {
+        "id": "1776941407643",
+        "peer_id": "BROADCAST",
+        "sender": "Gurtej-S",
+        "content": "hello",
+        "type": "text",
+        "timestamp": 1776941407.6433766
+      }
+    ],
+    "gursingh_73": [
+      {
+        "id": "1776941467731",
+        "peer_id": "gursingh_73",
+        "sender": "Gurtej-S",
+        "content": "bro",
+        "type": "text",
+        "timestamp": 1776941467.7315247
+      }
+    ]
+  },
+  "settings": {}
+}

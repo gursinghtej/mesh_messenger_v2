@@ -1,0 +1,5 @@
+# No external dependencies beyond Python standard library!
+# But these enhance functionality:
+
+Pillow>=9.0.0          # For image handling (optional)
+cryptography>=41.0.0   # For stronger encryption (optional)
